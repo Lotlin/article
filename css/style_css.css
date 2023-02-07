@@ -1,0 +1,32 @@
+.header__img-css {
+  margin-bottom: 10px;
+  height: 30vh;
+  max-width: 100%;
+  background: url("../img/css.jpeg") no-repeat center;
+  background-size: cover;
+}
+
+/* свои стили */
+
+.main__flex {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.main__flex-img {
+  height: 200px;
+}
+
+.main__flex-p {
+  margin-bottom: 30px;
+}
+
+.space-double {
+  margin-bottom: 30px;
+}
+
+.main__img-wrapper {
+  margin: 0 auto;
+  width: 60%;
+}

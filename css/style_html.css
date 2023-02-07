@@ -1,0 +1,54 @@
+.header__img-html {
+  margin-bottom: 10px;
+  height: 30vh;
+  max-width: 100%;
+  background: url("../img/html.jpeg") no-repeat center;
+  background-size: cover;
+}
+
+.section__p-border{
+  padding-left: 15px;
+  border-left: 3px solid currentColor;
+}
+
+.main__encoding-img {
+  margin: 0 auto;
+  padding-top: 20px;
+  max-width: 80%;
+}
+
+.main__syntax {
+  padding-bottom: 40px;
+}
+
+.main__syntax-wrapper {
+  margin-bottom: 40px;
+}
+
+.main__syntax-img {
+  margin-bottom: 15px;
+}
+
+.main__style-wrapper {
+  margin-bottom: 40px;
+}
+
+.main__style-img-wrapper {
+  padding-left: 40px;
+}
+
+.main__style {
+  padding-bottom: 40px;
+}
+
+.main__attribute-wrapper {
+  margin-bottom: 60px;
+}
+
+.main__attribute-h3 {
+  font-size: 24px;
+}
+
+.main__attribute {
+  margin-bottom: 30px;
+}
